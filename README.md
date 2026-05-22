@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psathwik-aiml" alt="psathwik-aiml" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning,React Js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://psathwik-aiml.github.io/sathwik-portfolio/](https://psathwik-aiml.github.io/sathwik-portfolio/)
 
