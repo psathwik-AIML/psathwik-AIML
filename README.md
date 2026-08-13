@@ -23,11 +23,11 @@ CSE Graduate | Aspiring Software Engineer | Java, JavaScript, React & Node.js | 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/sathwik-puttala" target="_blank">
+  <a href="https://www.linkedin.com/in/sathwikputtala/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sathwik Puttala" height="30" width="40" />
   </a>
 
-  <a href="https://www.leetcode.com/sathwik" target="_blank">
+  <a href="https://leetcode.com/u/sathwik31/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sathwik" height="30" width="40" />
   </a>
 </p>
