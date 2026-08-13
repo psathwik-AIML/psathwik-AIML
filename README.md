@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathwik</h1>
 
 <h3 align="center">
-CSE Graduate | Java & JavaScript Developer | Full-Stack Web Development | DSA Enthusiast
+CSE Graduate | Aspiring Software Engineer | Java, JavaScript, React & Node.js | DSA Enthusiast
 </h3>
 
 <p align="left">
